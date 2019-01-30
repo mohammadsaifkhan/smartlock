@@ -1,0 +1,54 @@
+[
+	{
+		"userId": "ABwppHE9i0O0ysjd40Re3Q5ZqH6_icm-pbI8e6Q0kg0XL7Q1aphiVYWnzkqOc4WrgCf5H2mebLtoBU7jxOE",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-10-06T00:10:37.050Z",
+				"lastUsedAt": "2018-10-06T00:18:53.301Z",
+				"sessionsCount": 23
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "lockDoorIntent",
+							"timestamp": "2018-10-06T00:18:53.301Z",
+							"state": "FirstState"
+						},
+						"response": {
+							"speech": "Your front door is now locked.",
+							"state": "FirstState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "amzn1.account.AM3B00000000000000000000000",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-10-06T00:18:34.937Z",
+				"lastUsedAt": "2018-10-06T00:18:53.309Z",
+				"sessionsCount": 5
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "lockDoorIntent",
+							"timestamp": "2015-05-13T12:34:56Z",
+							"state": "FirstState"
+						},
+						"response": {
+							"speech": "Your front door is now locked.",
+							"state": "FirstState"
+						}
+					}
+				]
+			}
+		}
+	}
+]

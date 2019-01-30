@@ -1,0 +1,5 @@
+{
+	"name": "lockDoorIntent",
+	"auto": true,
+	"webhookUsed": true
+}
